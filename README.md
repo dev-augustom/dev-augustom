@@ -1,6 +1,6 @@
 👋 Olá, eu sou @augustomiguel
 
-👀 Tenho interesse em programação, especialmente em Java, HTML, CSS e desenvolvimento web.
+👀 Tenho interesse em programação, especialmente em Java desenvolvimento web.
 
 🌱 Atualmente estou aprendendo conceitos avançados de Java e aprimorando minhas habilidades em tecnologias front-end.
 
